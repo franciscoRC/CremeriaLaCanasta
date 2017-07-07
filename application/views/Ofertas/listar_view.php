@@ -12,7 +12,7 @@
         <div class="text-center"><h1 class="h1">Lista de Ofertas</h1></div>
         
        
-       
+        
 	 <hr>
         
         <table class="table table-bordered table-striped table-hover" >
